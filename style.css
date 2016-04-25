@@ -1,0 +1,24 @@
+* {
+  box-sizing: border-box;
+}
+
+html, body, p, h1, h2, h3, ul {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-family: Montserrat, sans-serif;
+  font-weight: 300;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+.wrapper {
+  background: white;
+  max-width: 1000px;
+  margin: 0 auto;
+}
